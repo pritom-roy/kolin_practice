@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483f205f-8e6e-462a-b514-d05a1ff2ff29" name="Changes" comment="kotlin Practice">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="483f205f-8e6e-462a-b514-d05a1ff2ff29" name="Changes" comment="kotlin Practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/z_MetaKotlin/starter/myProject",
     "node.js.detected.package.eslint": "true",
@@ -63,6 +60,7 @@
       <workItem from="1694757717201" duration="738000" />
       <workItem from="1694889661839" duration="2319000" />
       <workItem from="1694937293560" duration="4782000" />
+      <workItem from="1694954247471" duration="795000" />
     </task>
     <task id="LOCAL-00001" summary="kotlin Practice">
       <option name="closed" value="true" />
@@ -91,7 +89,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

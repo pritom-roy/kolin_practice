@@ -1,0 +1,11 @@
+Index: src/main/resources/file.kt
+===================================================================
+diff --git a/src/main/resources/file.kt b/src/main/resources/file.kt
+deleted file mode 100644
+--- a/src/main/resources/file.kt	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-fun main()
+-{
+-    println("hello")
+-}
